@@ -1,0 +1,12 @@
+{
+    "contacts": [
+      {
+        "id": "1",
+        "name": "John Doe",
+        "email": "john@example.com",
+        "message": "I want to volunteer",
+        "createdAt": "2024-10-22T12:00:00.000Z",
+        "responded": false
+      }
+    ]
+  }

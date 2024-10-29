@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "testdonor",
+      "password": "password123",
+      "email": "donor@example.com",
+      "type": "donor",
+      "phone": "1234567890",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "username": "testngo",
+      "password": "password123",
+      "email": "ngo@example.com",
+      "type": "ngo",
+      "phone": "9876543210",
+      "area": "downtown",
+      "organization": "Food Bank",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "username": "poojitha",
+      "password": "123456",
+      "email": "po@gmail.com",
+      "type": "donor",
+      "phone": "1234567890",
+      "createdAt": "2024-10-23T06:06:02.022Z"
+    },
+    {
+      "id": "4",
+      "username": "liki",
+      "password": "123",
+      "email": "badisalikithasri@gmail.com",
+      "type": "donor",
+      "phone": "7396225303",
+      "createdAt": "2024-10-24T10:03:03.042Z"
+    },
+    {
+      "id": "5",
+      "username": "ASH",
+      "password": "123",
+      "email": "ashrith6974@gmail.com",
+      "type": "ngo",
+      "phone": "7995404090",
+      "createdAt": "2024-10-25T06:18:34.324Z",
+      "organization": "pK",
+      "area": "SDF"
+    }
+  ]
+}

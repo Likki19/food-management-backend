@@ -1,0 +1,59 @@
+{
+  "donations": [
+    {
+      "id": "1",
+      "foodItem": "Pizza",
+      "quantity": "20 boxes",
+      "servingSize": "Serves 40 people",
+      "location": "123 Main St",
+      "area": "downtown",
+      "expiryTime": "2024-10-23T18:00:00.000Z",
+      "dietaryInfo": "Vegetarian options available",
+      "storageInstructions": "Keep refrigerated",
+      "donorId": "1",
+      "donorName": "testdonor",
+      "donorPhone": "1234567890",
+      "claimed": true,
+      "claimedBy": "ASH",
+      "claimedAt": "2024-10-25T06:35:31.671Z",
+      "createdAt": "2024-10-22T12:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "foodItem": "Sandwiches",
+      "quantity": "50 pieces",
+      "servingSize": "Serves 25 people",
+      "location": "456 Oak Ave",
+      "area": "uptown",
+      "expiryTime": "2024-10-23T20:00:00.000Z",
+      "dietaryInfo": "Contains eggs and dairy",
+      "storageInstructions": "Room temperature okay",
+      "donorId": "1",
+      "donorName": "testdonor",
+      "donorPhone": "1234567890",
+      "claimed": true,
+      "claimedBy": "testngo",
+      "claimedAt": "2024-10-22T15:00:00.000Z",
+      "createdAt": "2024-10-22T10:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "foodItem": "66",
+      "quantity": "12",
+      "location": "ASD",
+      "expiryTime": "2024-10-30T12:04",
+      "donorPhone": "12345678",
+      "servingSize": "12",
+      "dietaryInfo": "dd",
+      "storageInstructions": "d",
+      "area": "SDF",
+      "donorId": "5",
+      "donorName": "ASH",
+      "donorType": "ngo",
+      "claimed": false,
+      "claimedBy": null,
+      "claimedAt": null,
+      "createdAt": "2024-10-25T06:35:07.094Z"
+    }
+  ]
+}
